@@ -1,0 +1,111 @@
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Form1.resources
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormYonetici.resources
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CopyComplete
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormPersonel.resources
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormMusteri.resources
+C:\Users\Murat\Desktop\Wissen Bitirme\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormGiris.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe.config
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.exe
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\BankaOtomasyonu.pdb
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Form1.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormGiris.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormMusteri.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormPersonel.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.FormYonetici.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.Properties.Resources.resources
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.csproj.CopyComplete
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.exe
+C:\Users\Ebru\Desktop\ebru-cok önemli\Wissen-Projeler\Wissen Bitirme basesiz\BankaOtomasyonu\obj\Debug\BankaOtomasyonu.pdb
